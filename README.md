@@ -4,6 +4,6 @@ This GitHub repository contains an implementation of the AdaVol algortihm presen
 
 ## References
 <a id="1">[1]</a> 
-Nicklas Werge and Olivier Wintenberger (2021). 
+Nicklas Werge and Olivier Wintenberger (2022). 
 AdaVol: An Adaptive Recursive Volatility Prediction Method.
-Econometrics and Statistics.
+Econometrics and Statistics 23, 19-35.
