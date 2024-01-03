@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Werge"
+  given-names: "Nicklas"
+  orcid: "https://orcid.org/0000-0001-9906-364X"
+title: "AdaVol: An Adaptive Recursive Volatility Prediction Method"
+version: 1.0.4
+doi: 10.1016/j.ecosta.2021.01.004
+date-released: 2020-05-05
+url: "https://github.com/nicklaswerge/AdaVol"
